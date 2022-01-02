@@ -1,0 +1,7 @@
+Q: What is an HTML tag?
+A: An HTML tag is an element such as 
+         <p>some text content</p>
+    which points to content to be rendered by the browser. 
+
+Q: What are the three parts of an HTML element?
+A: The opening tag, the content/element, and the closing tag. 
