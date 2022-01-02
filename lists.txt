@@ -1,9 +1,0 @@
-Q: What HTML tag is used to create an unordered list?
-A: <ol></ol>
-
-Q: What HTML tag is used to create an unordered list?
-A: <ul></ul>
-
-Q: What HTML tag is used to create list items within both unordered and ordered 
-    lists?
-A: <li></li>
