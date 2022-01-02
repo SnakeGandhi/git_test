@@ -1,0 +1,47 @@
+What is a network? A network is a group of computers connected either through physical or wireless links. 
+
+
+What is the internet? The internet is the global system of underground and underwater fiber optic cables which link major server centers around the globe. 
+
+
+What is an IP address? An IP address is a unique number assigned to each client connected to any network.
+
+
+What is a router? A router is a specialized computer whose function is to guide packets directly and efficiently between clients and servers. 
+
+
+What is an ISP? An ISP is a company that owns and manages special routers which are connected to both each other and other ISP's routers. 
+
+
+What are packets? How are they used to transfer data? Packets are the small chunks of information that webpages are broken down into in order
+  to be efficiently routed over the Web. They consist of headers, a payload, and footers.
+
+
+What is a client? Any device that connects to the Internet indirectly, such as through an ISP. These use DSL to accesss webpages stored on servers. 
+
+
+What is a server? A powerful 'storehouse' computer which hosts webpages and is connected physically to the Internet. Clients access copies 
+  of the webpages stored on servers. 
+
+
+What is a web page? A web page is a file stored on a server's solid state drive (SSD). These files are complex to read, consisting of HTML, CSS, JavaScript 
+  and other files which define the form of the website. 
+
+
+What is a web server? A web server is a specific computer that hosts multiple web pages on the Internet. 
+
+
+What is a web browser? A web browser is computer software which queries and displays web pages on a client computer. 
+
+
+What is a search engine? A search engine is a web service (like EMAIL, VOIP or IRC) which helps you find web pages. 
+
+
+What is a DNS request? A DNS request is sent to a DNS server by a browser on the client computer searching for the IP address of a given domain name. 
+
+
+Which browser are you currently using? Firefox. 
+
+
+In your own words, explain what happens when you run a search on google.com. When you run a search on google.com, 
+  google searches through an index of all the unique locations that webpages are found on the internet. 

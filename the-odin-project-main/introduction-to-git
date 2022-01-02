@@ -1,0 +1,13 @@
+What kind of program is Git? Git is an implementation of a VCS, or Version Control System. A VCS is a sophistocated change tracking and collaboration program. 
+
+What are the differences between Git and a text editor in terms of what they save and their record keeping? A text editor saves single copies of files over time, 
+  while Git does this along with creating a history of changes and supporting non-linear development across networks. 
+  
+Does Git work at a local or remote level? Local.
+  
+Does GitHub work at a local or remote level? Remote. 
+  
+Why is Git useful for an individual developer? It allows an individual to create a portfolio of code, as well as serving the basic VCS functions. 
+  
+Why are Git and GitHub useful for a team of developers? They allow a team of developers to collaborate from various locations and connectivities, as well as
+  providing access control and other useful features.
