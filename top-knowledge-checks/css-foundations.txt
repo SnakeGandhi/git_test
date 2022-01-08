@@ -1,0 +1,25 @@
+Q: What are the main differences between external, internal, and inline CSS?
+A: External CSS uses a linked .css document to style elements from an external file. Internal CSS uses CSS-specific tags like <style></style> to bring CSS right into the HTML file. Inline CSS is when you add style directly to HTML elements by using the style= attribute, as in 
+    <div style="colo: white;></div>
+
+Q: What is the syntax for class and ID selectors?
+A: .class { } #id { }
+
+Q: How would you apply a single rule to two different selectors?
+A: Group them in a comma-ordered list. Such as:
+
+.class1,
+.class2 { 
+    property="value";
+}
+
+Q: Given an element that has an id of title and a class of primary, how would you use both attributes for a single rule?
+A: #title.primary {
+    property="value";
+}
+
+Q: What does the descendant combinator do?
+A: Selects elements that are in a parent/child relationship, also known as 'nested.'
+
+Q: Between a rule that uses one class selector and a rule that uses three type selectors, which rule has the higher specificity?
+A: The one with three. 
