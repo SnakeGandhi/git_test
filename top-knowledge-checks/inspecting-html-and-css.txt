@@ -1,0 +1,8 @@
+Q: How do you select a specific element on your page with your browser’s developer tools?
+A: Ctrl + Shift + I, click the little arrow and box in the top left corner of the Toolbox, click desired element. 
+
+Q: What does a strikethrough in a CSS element mean in your browser’s developer tools?
+A: It means the element is being overridden.
+
+Q: How do you change CSS in real time on specific elements of a web page with your browser’s developer tools?
+A: Using the CSS editor tool in the bottom left of the Toolbox. 
