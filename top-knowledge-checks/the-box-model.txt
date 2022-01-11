@@ -1,0 +1,17 @@
+Q: From inside to outside, what is the order of box-model properties?
+A: Content, Padding, Border, Margin
+
+Q: What does the box-sizing CSS property do?
+A: Uses value border-box to tell the browser to utilize alternative CSS box model. 
+
+Q: What is the difference between the standard and alternative box model? 
+A: In the standard model, the total width and height of a box the content box only. The alternative model defines the entire width/padding/border (the box itself) with the properties height and width. 
+
+Q: Would you use margin or padding to create more space between 2 elements?
+A: Margin. 
+
+Q: Would you use margin or padding to create more space between the contents of an element and its border?
+A: Padding. 
+
+Q: Would you use margin or padding if you wanted two elements to overlap each other?
+A: 
