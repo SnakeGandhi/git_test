@@ -14,4 +14,4 @@ Q: Would you use margin or padding to create more space between the contents of 
 A: Padding. 
 
 Q: Would you use margin or padding if you wanted two elements to overlap each other?
-A: 
+A: Margin. 
