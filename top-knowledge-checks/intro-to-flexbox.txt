@@ -1,0 +1,8 @@
+Q: What’s the difference between a flex container and a flex item?
+A: A flex container 'contains' items that the container then operates on in some way, such as rotating on an axis. 
+
+Q: How do you create a flex item?
+A: 
+.flex-item  { 
+    display: flex;
+}
