@@ -1,0 +1,2 @@
+Q: What are the 3 values defined in the shorthand flex property?
+A: flex-grow, flex-shrink, flex-basis
