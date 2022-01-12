@@ -1,0 +1,17 @@
+Q: What is the difference between a block element and an inline element?
+A: Block elements always break to a new line, and have all their heights, widths, paddings, and margins respected. Inline elements will not break onto a new line unless they run out of alloted space, and will only take up as much left-and-right space as necessary for content.  
+
+Q: What is the difference between an inline element and an inline-block element?
+A: Inline-block elements have the properties of inline elements except that their margin and padding behave like a block element. 
+
+Q: Is an h1 block or inline?
+A: inline
+
+Q: Is button block or inline?
+A: inline
+
+Q: Is div block or inline?
+A: Block
+
+Q: Is span block or inline?
+A: inline
