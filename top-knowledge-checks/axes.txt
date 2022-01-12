@@ -8,4 +8,7 @@ Q: In a column flex-container, what does flex-basis refer to?
 A: The base height value. 
 
 Q: In a row flex-container, what does flex-basis refer to?
-A: Width property and value. 
+A: Width property and value.
+
+Q: Why do the previous two questions have different answers?
+A: Because a flex container has two different axes, depending on the value of flex-direction
